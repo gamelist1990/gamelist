@@ -1,0 +1,1 @@
+# gamelist chromebookで作れるかテスト
